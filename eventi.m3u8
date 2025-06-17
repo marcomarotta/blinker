@@ -17,9 +17,3 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-id="legaabresciavsvirtusbologna" tvg-name="Lega A : Brescia vs Virtus Bologna (20:30)" tvg-logo="https://raw.githubusercontent.com/marcomarotta/blinker/main/logos/Brescia_vs_Virtus Bologna.png" group-title="Eventi Live",Lega A : Brescia vs Virtus Bologna (20:30)
 https://new.newkso.ru/wind/premium879/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="tourofswitzerlandstage3menaarauheiden191km" tvg-name="Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) (14:45)" tvg-logo="https://www.magicswitzerland.com/wp-content/uploads/2017/07/grand-tour-of-switzerland-logo.png" group-title="Eventi Live",Tour of Switzerland | Stage 3 Men | Aarau - Heiden (191 km) (14:45)
-https://new.newkso.ru/wind/premium878/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
-
